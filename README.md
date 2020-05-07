@@ -10,4 +10,4 @@ The loss function used is a categorical cross entropy loss function with an opti
 
 A summary of the model can be found below
 
-[alt text][stage1_spec.png]
+![alt text][./stage1_spec.png]
